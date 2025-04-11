@@ -45,9 +45,3 @@ You can learn more about the book or purchase it here:
 - Go 1.20+
 - PostgreSQL
 
-### Clone and Setup
-
-```bash
-git clone https://github.com/yourusername/lets-go-further-api.git
-cd lets-go-further-api
-go mod tidy
