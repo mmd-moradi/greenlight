@@ -1,0 +1,9 @@
+
+{
+	email mmidd381@gmail.com
+}
+
+greenlight.mmdmidev.site {
+	respond /debug/* "Not Permitted" 403
+	reverse_proxy localhost:4000
+}
